@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello,world! i'm thyara,a front end developer — welcome to my universe!💻
 
 <!--
 **monike44/monike44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
