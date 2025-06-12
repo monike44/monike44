@@ -64,3 +64,5 @@ Vamos codar? 💻✨
 <p align="left">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monike44&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+![snake gif](https://github.com/Monike44/Monike44/blob/output/github-contribution-grid-snake.svg)
