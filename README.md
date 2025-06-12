@@ -65,4 +65,8 @@ Vamos codar? 💻✨
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monike44&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-![snake gif](https://github.com/Monike44/Monike44/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monike44/monike44/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monike44/monike44/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/monike44/monike44/output/pacman-contribution-graph.svg">
+</picture>
