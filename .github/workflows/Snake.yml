@@ -1,28 +1,28 @@
-name: Generate Snake Animation
+name: Gerar animação de cobra
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # roda todos os dias à meia-noite
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  generate:
+  gerar:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Criar arquivo de contribuição animado
         uses: Platane/snk@v3
         with:
-          github_user_name: Monike44
+          github_user_name: monike44
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Commit e push da animação
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          message: "Atualizar animação da cobra"
+          add: "dist/github-contribution-grid-snake.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
