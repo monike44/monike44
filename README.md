@@ -5,7 +5,7 @@
 Sou estudante de **Sistemas e Mídias Digitais** na **UFC** e apaixonada por tecnologia.Curiosa por natureza, adoro explorar novas tecnologias, aprender e  tirar as idéias do papel.Aqui você vai encontrar um pouco da minha jornada como dev — meus projetos, testes, estudos e tudo que venho criando enquanto cresço na área. 🚀
 Vamos codar? 💻✨
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyara-davi)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyara-davi-952836316/)
 [![Email](https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tthayaradavidavi@gmail.com)
 
 ## 👾 linguagens e tecnologias
@@ -55,7 +55,7 @@ Vamos codar? 💻✨
 
 <br clear="left" /><br/>
 
-# 📊 estáticas 
+## 📊 estáticas 
 
 <p align="left">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Monike44&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
