@@ -52,3 +52,15 @@ Vamos codar? 💻✨
   align="left"
   style="padding-right: 10px;"
 />
+
+<br clear="left" /><br/>
+
+# 📊 estáticas 
+
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Monike44&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monike44&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+</p>
